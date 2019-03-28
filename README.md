@@ -12,7 +12,7 @@ Comprender sobre a contribuição desses pilares para a sociologia. E implicaç�
 
 * **Kézia Locatelli de Macedo:**
 
-     -Discente do Instituto Federal do Rio Grande do Sul - *Campus* Vacaria no Curso Técnico em Multimídia Integrado.
+     -Discente do IFRS - *Campus* Vacaria no Curso Técnico em Multimídia Integrado.
      -ExperiênciaS com linguagens de programação e marcação foram adquiridas durante o período do curso.
      -Participou de projetos de ensino relacionados a Física, Química e Matemática.
      -Responsável pela parte lógica do sistema.
@@ -20,10 +20,10 @@ Comprender sobre a contribuição desses pilares para a sociologia. E implicaç�
      
 * **Flávia Subtil Faria:**
 
-     -Discente do Instituto Federal do Rio Grande do Sul - *Campus* Vacaria no Curso Técnico em Multimídia Integrado.
-     -Na instituição, participou de projetos relacionados a História, Química, Programação, Leitura e reuniões do Núcleo de Ações Afirmativas sobre gênero e corpo. 
-     -Responsável pelo conteúdo que será adicionado ao sistema.
-     -Responsável pela parte visual do projeto.
+     - Discente do Instituto Federal do Rio Grande do Sul - *Campus* Vacaria no Curso Técnico em Multimídia Integrado.
+     - Na instituição, participou de projetos relacionados a História, Química, Programação, Leitura e reuniões do Núcleo de Ações Afirmativas sobre gênero e corpo. 
+     - Responsável pelo conteúdo que será adicionado ao sistema.
+     - Responsável pela parte visual do projeto.
 
 Funcoinalidades: 
 -Links de notícias que estão relacionadas com os movimentos sociais dos pilares
