@@ -1,7 +1,15 @@
-# heathers
-Titulo da aplicação: *weber, Durkheim e Marx: os três pilares da sociologia*
-Propósito:Comprender sobre a contribuição desses pilares para a sociologia. E implicações de suas ideias em movimentos sociais de um modo geral.
-Quem desenvolveu:
+#Heathers
+
+##Titulo da aplicação:
+
+*Weber, Durkheim e Marx: os três pilares da Sociologia*
+
+##Propósito:
+
+Comprender sobre a contribuição desses pilares para a sociologia. E implicações de suas ideias em movimentos sociais de um modo geral.
+
+##Desenvolvedoras:
+
 Kézia Locatelli de Macedo: Ensino fundamental completo na E.M.E.F Coronel Avelino. Atualmente discente do Instituto Federal do Rio Grande do Sul - campus Vacaria, do curso técnico em Multimídia. AS experiênciaS com linguagens de programação são adquiridas durante o periodo do curso. Participou de clubes relacionados a física, quimica e matemática.
 Flávia Subtil Faria: Ensino fundamental completo na E.M.E.F Nabor Moura de Azevedo. Atualmente discente do Instituto Federal do Rio Grande do Sul - campus Vacaria, do curso técnico em Multimídia. Nessa instituição participou de projetos relacionados a História, Química e Programação. Já foi bolsista de um projeto de videoaula intitulado "Luz, Câmera, EducAÇÃO à Distância".
 
