@@ -10,7 +10,7 @@ Comprender sobre a contribuição desses pilares para a sociologia. E implicaç�
 
 ## Desenvolvedoras:
 
-### *Kézia Locatelli de Macedo*:
+* **Kézia Locatelli de Macedo*:
 
 Ensino fundamental completo na E.M.E.F Coronel Avelino. Atualmente discente do Instituto Federal do Rio Grande do Sul - *Campus* Vacaria, do curso técnico em Multimídia. AS experiênciaS com linguagens de programação são adquiridas durante o periodo do curso. Participou de clubes relacionados a física, quimica e matemática.
 Flávia Subtil Faria: Ensino fundamental completo na E.M.E.F Nabor Moura de Azevedo. Atualmente discente do Instituto Federal do Rio Grande do Sul - campus Vacaria, do curso técnico em Multimídia. Nessa instituição participou de projetos relacionados a História, Química e Programação. Já foi bolsista de um projeto de videoaula intitulado "Luz, Câmera, EducAÇÃO à Distância".
