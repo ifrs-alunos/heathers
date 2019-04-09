@@ -14,16 +14,14 @@ Comprender sobre a contribuição desses pilares para a sociologia. E implicaç�
 
      -Discente do IFRS - *Campus* Vacaria no Curso Técnico em Multimídia Integrado.
      -ExperiênciaS com linguagens de programação e marcação foram adquiridas durante o período do curso.
-     -Participou de projetos de ensino relacionados a Física, Química e Matemática.
-     -Responsável pela parte lógica do sistema.
-     -Colaboradora da parte visual do sistema.
+     -Participou de projetos de ensino relacionados a Física, Química e Matemática.     
      
 * **Flávia Subtil Faria:**
 
      - Discente do Instituto Federal do Rio Grande do Sul - *Campus* Vacaria no Curso Técnico em Multimídia Integrado.
-     - Na instituição, participou de projetos relacionados a História, Química, Programação, Leitura e reuniões do Núcleo de Ações Afirmativas sobre gênero e corpo. 
-     - Responsável pelo conteúdo que será adicionado ao sistema.
-     - Responsável pela parte visual do projeto.
+     - Na instituição, participou de projetos relacionados a História, Química, Programação, Leitura e reuniões do Núcleo de Ações Afirmativas sobre gênero e corpo.
+     
+     
 
 Funcoinalidades: 
 -Links de notícias que estão relacionadas com os movimentos sociais dos pilares
