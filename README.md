@@ -6,30 +6,28 @@
 
 ## Propósito:
 
-Comprender sobre a contribuição desses pilares para a sociologia. E implicações de suas ideias em movimentos sociais de um modo geral.
+Oferecer conteúdos referentes aos pilares da sociologia e, consequentemente, as aplicações de seus ideais dentre inúmeros movimentos sociais
 
 ## Desenvolvedoras:
 
 * **Kézia Locatelli de Macedo:**
 
-     -Discente do IFRS - *Campus* Vacaria no Curso Técnico em Multimídia Integrado.
-     -ExperiênciaS com linguagens de programação e marcação foram adquiridas durante o período do curso.
-     -Participou de projetos de ensino relacionados a Física, Química e Matemática.     
+     - Discente do IFRS - *Campus* Vacaria no Curso Técnico em Multimídia Integrado ao Ensino Médio.
+     - Experiências com **_Python_**, **_HTML_**, **_CSS_** e **_Java Script_**.
+     - Participou de projetos de ensino relacionados a Física, Química, Matemática e Programação.     
      
 * **Flávia Subtil Faria:**
 
-     - Discente do Instituto Federal do Rio Grande do Sul - *Campus* Vacaria no Curso Técnico em Multimídia Integrado.
-     - Na instituição, participou de projetos relacionados a História, Química, Programação, Leitura e reuniões do Núcleo de Ações Afirmativas sobre gênero e corpo.
-     
-     
+     - Discente do IFRS - *Campus* Vacaria no Curso Técnico em Multimídia Integrado ao Ensino Médio.
+     - Experiências desagradáveis com **_Python_**, **_HTML_**, **_CSS_** e **_Java Script_**.
+     - Participou de projetos de ensino relacionados a História, Química, Programação e reuniões do Núcleo de Ações Afirmativas sobre Gênero e Sexualidade.
+  
+  
+Funcionalidades: 
 
-Funcoinalidades: 
--Links de notícias que estão relacionadas com os movimentos sociais dos pilares
--Links do YouTube com função de explicar ou de curiosidades
--Terá uma aba de curiosidades, onde vamos colocar novidades sobre os movimentos sociais.
--Página inicial de loguin/criar a conta.
--Formulário sobre um conhecimento anterior e pós o conhecimento do nosso conteúdo.
+- Adicionar tópicos no fórum
+- Download de obras
+- Download de questões e gabaritos de vestibular
 
 
-Bugs conhecidos e como resolvê-los:
 Estamos criando para uma plataforma em Linux.  
