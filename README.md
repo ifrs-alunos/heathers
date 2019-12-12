@@ -8,6 +8,8 @@
 
 Oferecer conteúdos referentes aos pilares da sociologia e, consequentemente, as aplicações de seus ideais dentre inúmeros movimentos sociais
 
+[Vídeo da aplicação:]_(https://youtu.be/qUKYwfQ3qkM)
+
 ## Desenvolvedoras:
 
 * **Kézia Locatelli de Macedo:**
