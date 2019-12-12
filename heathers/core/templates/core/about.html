@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block titulo %}
+<div id="questaowrap">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <h2>QUESTÕES</h2>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock titulo %}
+
+{% block movimento %}
+  <div class="container">
+    <div class="row mt">
+      {% for publicacao in publicacao_recente_lista %}
+        <div class="col-lg-8">
+          <h1>{{ publicacao.titulo }}</h1>
+          <hr>
+          <h3>{{ publicacao.subtitulo }}</h3>
+          <div class="bombom">
+              <div class="col-lg-4">
+                <p class="pull-right"><br><a type="button" class="btn btn-green" href="{{ publicacao.file.url }}">BAIXAR</a></p>
+              </div>
+          </div>
+        </div>
+      {% endfor %}
+      
+      <!-- col-lg-8 -->
+      <div class="col-sm-4">
+        <ul class="process effect-1" id="process">
+          <li><img src="{% static 'img/process/perg.png' %}"></li>
+        </ul>
+      </div>
+      <!-- col-lg-4 -->
+    </div>
+    <!-- /row -->
+  </div>
+{% endblock %}

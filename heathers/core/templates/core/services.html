@@ -1,0 +1,105 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block titulo %}
+<div id="serviceswrap">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2">
+        <h2> PRINCIPAIS OBRAS DOS <br/> 
+            SOCIÓLOGOS</h2>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock titulo %}
+
+{% block content %}
+	<div class="container">
+    <div class="row mt">
+      <div class="col-lg-8">
+        <h1>KARL MARX</h1>
+        <hr>
+        <h3>O Capital</h3>
+        <div style='text-align:justify'><p>O Capital é um conjunto de livros de Marx que fazem uma análise crítica do capitalismo. Esse conjunto é considerada por muitos como o marco do pensamento socialista marxista e que serviu de base para o socialismo implantados posteriormente em alguns países. Nela existem muitos conceitos econômicos complexos sobre todos os aspectos do modo de produção capitalista, incluindo também uma crítica sobre a teoria do valor-trabalho de Adam Smith e de outros assuntos tratados pelos economistas clássicos.</p></div>
+        <div class="bombom">
+            <div class="col-lg-4">
+              <p class="pull-right"><br><a type="button" class="btn btn-green" href="{% static 'capital.pdf' %}" target="_blank">BAIXAR</a></p>
+            </div>
+          </div>
+          
+        <br>
+        <br>
+        <br>
+        <h3>Manifesto Comunista</h3>
+        <div style='text-align:justify'><p>"A História de toda a sociedade que existiu até agora é a História da Luta de classes". "Tudo o que é soído desmancha no ar". "Que a classe dominante trema frente à revolução comunista". "Os proletários nada têm a perder fora suas correntes". Escrito há mais de 150 anos, principal texto político do mundo moderno e contemporâneo, O Manifesto Comunista, de Karl Marx e Friedrich Engels ganha novos contornos, quando o capitalismo se encarrega de reimpor o império das relações mercantis, estendendo a todos os rincões do mundo o domínio do capital e, com ele, a luta de classes.</p></div>
+        <div class="bombom">
+            <div class="col-lg-4">
+              <p class="pull-right"><br><a type="button" class="btn btn-green" href="{% static 'manifesto.pdf' %}" target="_blank">BAIXAR</a></p>
+            </div>
+          </div>
+        <br>
+        <br>
+        <br>
+
+        <h1>MAX WEBER</h1>
+        <hr>
+        <h3>Economia e Sociedade</h3>
+        <div style='text-align:justify'><p>As Etapas do Pensamento Sociológico: Max Weber – Economia e Sociedade é um tratado de sociologia geral que tem o objetivo de tornar inteligíveis as diferentes formas de economia, de direito, de dominação e de religião, inserindo-as num único sistema conceitual.</p></div>
+        <div class="bombom">
+            <div class="col-lg-4">
+              <p class="pull-right"><br><a type="button" class="btn btn-green" href="{% static 'economia.pdf' %}" target="_blank">BAIXAR</a></p>
+            </div>
+          </div>
+        <br>
+        <br>
+        <br>
+        <h3>A Ética Protestante e o Espírito do Capitalismo</h3>
+        <div style='text-align:justify'><p>"Em um momento no qual as Ciências Humanas se encontravam em efervescência, as teorias de Max Weber se tornaram fundamentais. Sua corrente de pensamento, que delineava o processo de racionalização e a análise da sociedade moderna e capitalista, aparece como uma verdadeira síntese da tradição científica e filosófica da Alemanha moderna. Em A ética protestante e o espírito do capitalismo, Weber delineia as relações entre o protestantismo ascético e o estabelecimento do capitalismo, discorrendo sobre a doutrina calvinista da predestinação e a consequente interpretação do êxito material como garantia da graça divina.</p></div>
+        <div class="bombom">
+            <div class="col-lg-4">
+              <p class="pull-right"><br><a type="button" class="btn btn-green" href="{% static 'etica_protesta.pdf' %}" target="_blank">BAIXAR</a></p>
+            </div>
+          </div>
+        <br>
+        <br>
+        <p></p>
+        <h1>ÉMILE DURKHEIM</h1>
+        <hr>
+        <h3>O Suicídio</h3>
+        <div style='text-align:justify'><p>A obra analisa as influências extra-sociais que geram o suicídio e a natureza das causas sociais, a maneira pela qual produzem seus efeitos e suas relações com as situações individuais que acompanham os diferentes tipos de suicídios. Mostra ainda em que consiste o elemento social do suicídio, ou seja, a tendência coletiva - suas relações com os outros fatos sociais e por que meios é possível agir sobre ela.</p></div>
+        <div class="bombom">
+            <div class="col-lg-4">
+              <p class="pull-right"><br><a type="button" class="btn btn-green" href="{% static 'o_suicidio.pdf' %}" target="_blank">BAIXAR</a></p>
+            </div>
+          </div>
+        <br>
+        <br>
+        <br>
+        <h3>Da Divisão do Trabalho Social</h3>
+        <div style='text-align:justify'><p>Na presente obra, o objetivo a que se propõe Durkheim é determinar a causa do desenvolvimento da divisão do trabalho nas sociedades modernas e dos desregramentos que aparentemente advêm desse progresso. Aqui, não se trata da divisão do trabalho que tem por objetivo o aumento da produtividade. Trata-se, antes, do modo de organização geral de uma sociedade, com funções cada vez mais especializadas, e que também abarca a divisão do trabalho do ponto de vista econômico</p></div>
+        <div class="bombom">
+            <div class="col-lg-4">
+              <p class="pull-right"><br><a type="button" class="btn btn-green" href="{% static 'divisao_trabalho.pdf' %}" target="_blank">BAIXAR</a></p>
+            </div>
+          </div>
+        <br>
+        <br>
+        <br>
+        
+      </div>
+      <!-- col-lg-8 -->
+      <div class="col-lg-4">
+        <ul class="process effect-2" id="process">
+          <li><img src="{% static 'img/process/marxis.png' %}"></li>
+          <li><img src="{% static 'img/process/mulequepiranha.png' %}"></li>
+          <li><img src="{% static 'img/process/marxis.png' %}"></li>
+          <li><img src="{% static 'img/process/mulequepiranha.png' %}"></li>
+          <li><img src="{% static 'img/process/marxis.png' %}"></li>
+        </ul>
+      </div>
+      <!-- col-lg-4 -->
+    </div>
+    <!-- /row -->
+  </div>
+{% endblock content %}

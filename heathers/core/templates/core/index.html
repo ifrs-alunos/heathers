@@ -1,0 +1,74 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block titulo %}
+<div id="headerwrap">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2">
+				<h1>PILARES DA SOCIOLOGIA</h1>
+				<h2>Base do estudo social</h2>
+			</div>
+		</div>
+	</div>
+</div>
+{% endblock titulo %}
+
+{% block tresPil %}
+<div id="services">
+  <div class="container">
+    <div class="row mt">
+      <div class="col-lg-1 centered">
+      </div>
+      <div class="col-lg-3">
+        <h3>MARX</h3>
+        <p>O povo que subjuga outro forja suas próprias cadeias</p>
+      </div>
+
+      <div class="col-lg-1 centered"></div>
+
+      <div class="col-lg-3">
+        <h3>DURKHEIM</h3>
+        <p>O indivíduo se mata para parar de sofrer</p>
+      </div>
+
+      <div class="col-lg-1 centered"></div>
+
+      <div class="col-lg-3">
+        <h3>WEBER</h3>
+        <p> O homem é um animal amarrado a teias de significados que ele mesmo teceu</p>
+      </div>
+    </div>
+    <!-- row -->
+  </div>
+  <!-- container -->
+</div>
+{% endblock %}
+
+{% block movimento %}
+<div class="row mt">
+      <div class="col-lg-12">
+        <h1>Movimentos Sociais <i class="fa fa-globe"></i></h1>
+      </div>
+      <!-- col-lg-12 -->
+      <div class="col-lg-8">
+        <p>Acompanhe notícias sobre diversos movimentos sociais ao redor do mundo</p>
+      </div>
+      <!-- col-lg-8-->
+      <div class="col-lg-4 goright">
+      </div>
+</div>
+{% endblock %}
+
+{% block content %}
+  {% for publicacao in publicacao_recente_lista %}
+  	<div class="col-lg-4">
+        {% if publicacao.image.url %}
+          <img class="img-responsive" src="{{ publicacao.image.url }}" alt="">
+        {% endif %}
+  	    <h3><a href="#">{{ publicacao.titulo }}</a></h3>
+  	    <p>{{ publicacao.subtitulo }}</p>
+  	    <p><a href="{{ publicacao.link }}" target="_blank"><i class="fa fa-link"></i> Ver mais</a></p>
+  	</div>
+  {% endfor %}
+{% endblock content %}
